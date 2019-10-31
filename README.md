@@ -80,4 +80,4 @@ git checkout -b shreya#11
 * Click `Compare & Pull Request` button.
 * Click `Create Pull Request`
 
-After you are done with this check the [Open Issues](https://github.com/Novice-Paradigm/Hello-World/issues) in this repo or other repos of [Novice Paradigm](https://github.com/Novice-Paradigm) and continue Contributing! :blush:
+After you are done with this check the [Open Issues](https://github.com/Novice-Paradigm/Hello-World/issues) in this repo or other repos of [Novice Paradigm](https://github.com/Novice-Paradigm) and continue Contributing! :blush
